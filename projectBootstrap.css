@@ -57,3 +57,14 @@ footer {
   font-family: "Italianno", cursive;
   font-family: "Orbitron", sans-serif;
 }
+
+/* custom css for col-sm-6 only*/
+.col-sm-6{
+  padding-left: 0px;
+}
+
+.form-control-outline{
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+}
