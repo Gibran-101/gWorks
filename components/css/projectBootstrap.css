@@ -1,0 +1,90 @@
+/* .about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.nav{
+  position: absolute;
+}
+
+/* footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  margin-bottom: 1vh;
+} */
+
+.lead {
+  /* font-family: 'UniqueRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 3vh; */
+  font-family: "Italianno", cursive;
+  font-size: 3px;
+}
+
+.featurette-heading {
+  font-family: "ConstantineRegular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 6vh;
+}
+
+body {
+  height: 100vh auto;
+  /* background-image: url(https://t4.ftcdn.net/jpg/02/49/80/35/360_F_249803595_UAq1DLceDCjnlefKQkGwJRD9XFaujKt3.jpg);
+  background-repeat:round; */
+}
+
+#navbarSupportedContent {
+  font-family: "Cinzel", serif;
+  font-family: "Italianno", cursive;
+  font-family: "Orbitron", sans-serif;
+}
+
+.navbar-brand {
+  font-family: "Cinzel", serif;
+  font-family: "Italianno", cursive;
+  font-family: "Orbitron", sans-serif;
+}
+
+.contact {
+  font-family: "Cinzel", serif;
+  font-family: "Italianno", cursive;
+  font-family: "Orbitron", sans-serif;
+}
+
+footer {
+  font-family: "Cinzel", serif;
+  font-family: "Italianno", cursive;
+  font-family: "Orbitron", sans-serif;
+}
+
+/* custom css for col-sm-6 only*/
+.col-sm-6{
+  padding-left: 0px;
+}
+
+.form-control-outline{
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
+}
+
+.bd-placeholder-img{
+  width: 300px;
+  height: 25vh;
+}
+
+.carousel-item{
+   height: 50vh;
+   
+}
+
+.container-box{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
