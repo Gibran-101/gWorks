@@ -8,13 +8,14 @@
   position: absolute;
 }
 
-/* footer {
+.fixed-bottom {
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 10%;
   margin-bottom: 1vh;
-} */
+  position: fixed;
+} 
 
 .lead {
   /* font-family: 'UniqueRegular';
